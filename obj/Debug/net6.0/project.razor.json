@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": -972571460,
-        "Kind": "Components.Component",
-        "Name": "RazorAppWithJM.Pages.Counter",
-        "AssemblyName": "RazorAppWithJM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "RazorAppWithJM.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1986430152,
-        "Kind": "Components.Component",
-        "Name": "RazorAppWithJM.Pages.Counter",
-        "AssemblyName": "RazorAppWithJM",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "RazorAppWithJM.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "RazorAppWithJM.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1184880625,
         "Kind": "Components.Component",
         "Name": "RazorAppWithJM.Pages.Index",
@@ -107,6 +74,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "RazorAppWithJM.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1003109436,
+        "Kind": "Components.Component",
+        "Name": "RazorAppWithJM.Pages.Counter",
+        "AssemblyName": "RazorAppWithJM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RazorAppWithJM.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -28104869,
+        "Kind": "Components.Component",
+        "Name": "RazorAppWithJM.Pages.Counter",
+        "AssemblyName": "RazorAppWithJM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RazorAppWithJM.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RazorAppWithJM.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 738331385,
+        "Kind": "Components.Component",
+        "Name": "RazorAppWithJM.Pages.ToDo",
+        "AssemblyName": "RazorAppWithJM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RazorAppWithJM.Pages.ToDo"
+        }
+      },
+      {
+        "HashCode": 1806293672,
+        "Kind": "Components.Component",
+        "Name": "RazorAppWithJM.Pages.ToDo",
+        "AssemblyName": "RazorAppWithJM",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RazorAppWithJM.Pages.ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "RazorAppWithJM.Pages.ToDo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -76210,6 +76263,11 @@
     {
       "FilePath": "c:\\Users\\ASUS\\OneDrive\\Dokumenti\\code\\RazorAppWithJM\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\ASUS\\OneDrive\\Dokumenti\\code\\RazorAppWithJM\\Pages\\ToDo.razor",
+      "TargetPath": "Pages\\ToDo.razor",
       "FileKind": "component"
     },
     {
