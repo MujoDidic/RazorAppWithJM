@@ -6,7 +6,15 @@
     {
         <li>
             <input type="checkbox" @bind="todo.IsDone"/>
-            <input @bind="todo.Title"/>
+            
+            @if(todo.IsDone)
+            {
+                <s>@todo.Title</s>    
+            }
+            else
+            {
+                <input @bind="todo.Title"/>
+            }
         </li>
     }
 </ul>
